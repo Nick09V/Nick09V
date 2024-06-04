@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Mi nombre es Nick y amo programar 
 <!--
 **Nick09V/Nick09V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
