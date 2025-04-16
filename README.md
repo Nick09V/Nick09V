@@ -1,5 +1,20 @@
 ## Hi there 👋
-Mi nombre es Nick y amo programar 
+#Hola soy Nick
+
+💻 Soy un desarollador apasionado por la programación
+🌍 EC
+
+## 🛠 Tecnologías y herramientas
+- Python
+- Java
+- C++
+- C#
+- JavaScript
+- PHP
+- 
+
+
+
 <!--
 **Nick09V/Nick09V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
