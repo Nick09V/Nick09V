@@ -1,5 +1,4 @@
-## Hi there 👋
-#Hola soy Nick
+Hola soy Nick
 
 💻 Soy un desarollador apasionado por la programación
 🌍 EC
