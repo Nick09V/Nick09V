@@ -1,17 +1,14 @@
 Hola soy Nick
+💻 Soy un desarollador apasionado por la tecnología y programación
+🌍 Quito - Ecuador 
 
-💻 Soy un desarollador apasionado por la programación
-🌍 EC
-
-## 🛠 Tecnologías y herramientas
+### 🛠 Tecnologías y herramientas
 - Python
+- React
 - Java
-- C++
 - C#
 - JavaScript
 - PHP
-- 
-
 
 
 <!--
